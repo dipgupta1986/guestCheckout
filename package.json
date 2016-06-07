@@ -1,0 +1,9 @@
+{
+  "name": "owners.com guest checkout",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "~1.4.2"
+  },
+  "devDependencies": {
+  }
+}
